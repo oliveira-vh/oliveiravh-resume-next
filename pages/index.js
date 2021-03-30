@@ -2,7 +2,7 @@ import React from 'react';
 import Description from '../components/Description';
 import Education from '../components/Education';
 import Hero from '../components/Hero';
-//import Portfolio from '../components/Portfolio';
+import Portfolio from '../components/Portfolio';
 import Repos from '../components/Repos';
 import Skills from '../components/Skills';
 import Footer from '../components/Footer';
@@ -16,9 +16,9 @@ const Index = ({filteredRepos}) => {
             <Description />
             <Education/>
             <Skills/>
-            {/*
+            
             <Portfolio/>
-            */}
+            
             <Repos filteredRepos={filteredRepos}/>
             <Footer/>
         </div>
