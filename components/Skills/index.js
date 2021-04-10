@@ -33,7 +33,7 @@ const Skills = () => {
                     <p className='text-2xl uppercase'>Git</p>
                     <p className='text-2xl uppercase'>Linux</p>
                     <p className='text-2xl uppercase'>Wordpress</p>
-                    <p className='text-2xl uppercase'>PHP e Etc...</p>
+                    <p className='text-2xl uppercase'>Etc...</p>
                 </div>
             </div>
         </div>
