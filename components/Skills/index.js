@@ -8,6 +8,7 @@ const Skills = () => {
                 <div className='border-dashed border-t md:border-t-0 md:border-l px-6 mx-6 md:mx-0 md:px-12 py-6'>
                     <h4 className='text-lg uppercase font-bold mb-2 text-orange'>Linguagens</h4>
                     <p className='text-2xl uppercase'>JavaScript</p>
+                    <p className='text-2xl uppercase'>Typescript</p>
                     <p className='text-2xl uppercase'>PHP</p>
                     <p className='text-2xl uppercase'>C</p>
                 </div>
